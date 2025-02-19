@@ -58,6 +58,19 @@ https://satochi.com.br/ <br>
   </div>
 <hr>
 
+## Statistic asydev •
+https://github.com/asydev/asydev-
+<div align="center">
+  <a href="https://github.com/asydev/">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=asydev&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asydev&layout=compact&theme=dark"/>
+</div> <br>
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=asydev&theme=flat&column=7" alt="GitHub Trophies"/>
+  </div>
+<hr>
+
+
 ## Languages & Tools •
 <div align="Left">
 
